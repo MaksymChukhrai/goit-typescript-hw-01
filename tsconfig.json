@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "rootDir": "./src", 
-    "outDir": "d:/Mega/IT/GO It/Type Script/ts_cources", 
+    "outDir": "./dist", 
     "allowJs": false,
     "allowSyntheticDefaultImports": true,
     "emitDecoratorMetadata": true,
