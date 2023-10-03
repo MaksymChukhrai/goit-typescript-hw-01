@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "D:\\Mega\\IT\\GO It\\Type Script\\ts_cources",
+			"problemMatcher": [],
+			"label": "Live Preview: Запустить сервер"
+		}
+	]
+}
