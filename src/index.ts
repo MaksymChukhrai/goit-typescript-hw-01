@@ -1,3 +1,5 @@
+console.log("Hello, TypeScript!");
+
 import { concatenation } from './concatenation';
 
 const button = document.querySelector('button')!;
@@ -8,3 +10,4 @@ if (button && input) {
     concatenation(input.value, 'hello!');
   });
 }
+
